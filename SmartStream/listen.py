@@ -56,7 +56,7 @@ def recognize_text():
                 text = data.get("text", "")
                 recognized_text = text 
                 
-                # Stop sound when text is recognized
+                # Stop sound when text is recognized.
    
                 
                 
